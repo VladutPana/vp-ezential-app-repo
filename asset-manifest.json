@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/vp-ezential-app-repo/static/css/main.c5118078.css",
+    "main.js": "/vp-ezential-app-repo/static/js/main.a00c6eaa.js",
+    "static/media/mountain.jpg": "/vp-ezential-app-repo/static/media/mountain.0209ef66a23a0ac2d13d.jpg",
+    "static/media/gradient.png": "/vp-ezential-app-repo/static/media/gradient.95e69808fa315a4bddd4.png",
+    "static/media/planetbg.png": "/vp-ezential-app-repo/static/media/planetbg.25842b59f38967ce54b1.png",
+    "static/media/cyberpunk.jpg": "/vp-ezential-app-repo/static/media/cyberpunk.8e4848fbc541d8e2d355.jpg",
+    "static/media/seabg.jpg": "/vp-ezential-app-repo/static/media/seabg.7658d536be85e00d7683.jpg",
+    "static/media/react.png": "/vp-ezential-app-repo/static/media/react.86c8d9eba03e29814d2a.png",
+    "static/media/node.png": "/vp-ezential-app-repo/static/media/node.e328955d6bbbf3ebc72b.png",
+    "static/media/energizer.svg": "/vp-ezential-app-repo/static/media/energizer.5af5e1b7de80ac4f4705754557c3bfd1.svg",
+    "static/media/adventuring.svg": "/vp-ezential-app-repo/static/media/adventuring.2aff968f78934af41a7cad5f1251c3a2.svg",
+    "static/media/breakfast.svg": "/vp-ezential-app-repo/static/media/breakfast.6c3c2e038c4c5e1ce73171959d4d5d64.svg",
+    "static/media/adventure.svg": "/vp-ezential-app-repo/static/media/adventure.1005542e1606e67f4fd5ca64700d0252.svg",
+    "static/media/lifestyle.svg": "/vp-ezential-app-repo/static/media/lifestyle.45f77e92b26e2beb3f4d854ef9b8d02b.svg",
+    "static/media/css.png": "/vp-ezential-app-repo/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/js.png": "/vp-ezential-app-repo/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/workout.svg": "/vp-ezential-app-repo/static/media/workout.36c946bb1bbb0ee30a0e58d0a234998b.svg",
+    "static/media/diet.svg": "/vp-ezential-app-repo/static/media/diet.0424d96d54c87dd040f2c67a5ec7f080.svg",
+    "static/media/fitness.svg": "/vp-ezential-app-repo/static/media/fitness.412171e83d4996c6bccb902951319340.svg",
+    "static/media/discord.svg": "/vp-ezential-app-repo/static/media/discord.bd18f4b4d2227d7b18154038a3c87cd4.svg",
+    "static/media/mindfulness.svg": "/vp-ezential-app-repo/static/media/mindfulness.d07b99ec85e581998da9316123947904.svg",
+    "static/media/telegram.svg": "/vp-ezential-app-repo/static/media/telegram.06dc8cc1e29f73412991211ac0247563.svg",
+    "static/media/twitter.svg": "/vp-ezential-app-repo/static/media/twitter.cd5d43517ee7309c69dd3938a042d031.svg",
+    "static/media/instagram.svg": "/vp-ezential-app-repo/static/media/instagram.dd7960406d87098b628fd0fcb8cb50f1.svg",
+    "static/media/card.svg": "/vp-ezential-app-repo/static/media/card.e791dd680eb12c5be065143004b45f25.svg",
+    "index.html": "/vp-ezential-app-repo/index.html",
+    "static/media/facebook.svg": "/vp-ezential-app-repo/static/media/facebook.a6ac24427677b6001c668feb3f1d1209.svg",
+    "main.c5118078.css.map": "/vp-ezential-app-repo/static/css/main.c5118078.css.map",
+    "main.a00c6eaa.js.map": "/vp-ezential-app-repo/static/js/main.a00c6eaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5118078.css",
+    "static/js/main.a00c6eaa.js"
+  ]
+}
