@@ -39,7 +39,6 @@ const Gallery = () => {
                 </div>
                 </div>
                 
-
             </div>
                 
             {/* 2nd div */}
