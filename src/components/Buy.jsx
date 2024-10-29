@@ -12,7 +12,6 @@ const Buy = () => {
             <Heading title="Ready to change your future ?" text="Get started right here right now"/>
 
         <div className="relative">
-
             <div className="flex items-center justify-center gap-[1rem] max-lg:flex-wrap ">
                 {pricing.map((item) => (
                     <div key={item.id} className={`w-[19rem] max-lg:w-full lg:w-full h-full px-6 border border-n-6 rounded-[2rem] even:py-14 odd:py-8 odd:my-4 ${item.colorful ? 'bg-gray-950' : 'bg-slate-900'}`}
